@@ -1,3 +1,3 @@
 # grycore
 
-![landing page](./screenshots/landing.png)
+<img src="./screenshots/landing.png" width="256"/>
